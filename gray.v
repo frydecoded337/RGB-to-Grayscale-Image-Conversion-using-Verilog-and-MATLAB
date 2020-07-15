@@ -35,7 +35,7 @@ initial begin
 	end
 	$fclose(file);       //closing file
 end
-endmodule //by - Rachana T G, R Amrutha Varshini, Purva S, Priya Bhat
+endmodule 
 
 
 
