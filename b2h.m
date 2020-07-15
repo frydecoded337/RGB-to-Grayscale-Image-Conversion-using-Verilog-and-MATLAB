@@ -24,7 +24,7 @@ sizefile = fopen('sizefile.hex', 'wt');  %creating a hexadecimal file to store i
 fprintf(sizefile, '%x\n', s);
 disp('Size file write done');
 fclose(sizefile); 
-%by - Rachana T G, R Amrutha Varshini, Purva S, Priya Bhat
+
 
 
             
