@@ -15,5 +15,5 @@ outimg = reshape(grayimg,[cols, rows]);  %constructing image from grayscale valu
 outimg = outimg';
 figure
 imshow(outimg, [])    %display final grayscale image
-%by - Rachana T G, R Amrutha Varshini, Purva S, Priya Bhat
+
 
